@@ -1,2 +1,5 @@
-# my-expense
-This is privacy &amp; policy certificate of the My Expense App
+# My Expense
+This app help the people to track their monthly expense .
+## Data Gete form User
+The taken data only like their name , email to identify theirself.
+
